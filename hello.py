@@ -4,7 +4,7 @@
 
 def print_hello():
     """Say 'Hello, world!'"""
-    print("Hello, World!")
+    print("Hello, world!")
 
 if __name__ == "__main__":
     print_hello()

@@ -9,3 +9,8 @@ For more information about contributing to the project, see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
 This is written in Python 3.
+
+You can run it this way (assuming you have Python3 installed)
+from the command line:
+
+> python3 -m pylint hello.py

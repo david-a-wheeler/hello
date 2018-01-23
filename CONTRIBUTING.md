@@ -1,8 +1,6 @@
 # CONTRIBUTING
 
-This is a simple example.
-
-You can get the software using git by running the following:
+You can get this software using git by running the following:
 
 > git clone https://github.com/david-a-wheeler/hello.git
 

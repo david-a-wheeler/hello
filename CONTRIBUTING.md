@@ -4,6 +4,10 @@ You can get this software using git by running the following:
 
 > git clone https://github.com/david-a-wheeler/hello.git
 
+We use GitHub and git to manage the project.
+If you don't know how to use GitHub or git, see
+[GitHub help](https://help.github.com/).
+
 If you have feedback (including bug reports and enhancement requests),
 [please create a GitHub issue](https://github.com/david-a-wheeler/hello/issues).
 

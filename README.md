@@ -7,3 +7,5 @@ This is a tiny project to make it easy to demonstrate things such as the
 
 For more information about contributing to the project, see
 [CONTRIBUTING.md](CONTRIBUTING.md).
+
+This is written in Python 3.
